@@ -1,0 +1,4 @@
+﻿import streamlit as st
+
+st.title('FlightDeck — minimal UI')
+st.write('This confirms your real app can render content.')
