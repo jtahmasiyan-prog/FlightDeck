@@ -1,0 +1,1 @@
+$Output/\n*.xlsx\n*.xlsm\nPassenger_List.csv\n.env\nsecrets/\n__pycache__/\n*.pyc\n.vscode/\n.venv/\n
